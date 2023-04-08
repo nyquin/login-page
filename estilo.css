@@ -142,5 +142,9 @@ a:hover {
     #container {
         width: 100%;
     }
+    #login-header h1{
+        display: block;
+        margin: 0 auto;
+    }
 
 }
