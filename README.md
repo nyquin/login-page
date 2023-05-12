@@ -6,4 +6,4 @@ Foram utilizado apenas HTML e CSS, e será adicionado funcionalidades em JavaScr
 
 Está sendo desenvolvido uma Página de Cadastro para melhor funcionalidade da Página de Login
 
-link:  https://unique-biscotti-7074b8.netlify.app/
+link:  https://loginpage-nycolas.netlify.app
